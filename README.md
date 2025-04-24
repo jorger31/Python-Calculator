@@ -16,7 +16,7 @@ This simple calculator using Python was constructed to strengthen fundamental be
 - Windows 11
 - PyCharm
 
-<h2>Walk-through</h2>
+<h2>Steps</h2>
 
 <p align="center">
 Screenshot of code: <br/>
