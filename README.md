@@ -20,5 +20,6 @@ This simple calculator using Python was constructed to strengthen fundamental be
 
 <p align="center">
 Screenshot of code: <br/>
-<img scr="https://imgur.com/M2Sl0G2">
+  
+![Image](https://github.com/user-attachments/assets/6c6b9ff9-ea12-47b0-bb97-22dfac3e5700)
 
