@@ -1,17 +1,20 @@
 # Python-Calculator
 
-<h2>Description</h2>
+<h2>Objective</h2>
 
-This is a guide on how I made a simple calculator using Python.
+This simple calculator using Python was constructed to strengthen fundamental beginner programming skills, including working with user input, conditional statements, functions, and error handling.
 
-<h2>Languages and Utilities Used</h2>
+<h2>Skills Learned</h2>
 
-- Python
+- Testing and Debugging
+- Problem Solving
+- Control Flow
+- Beginner Python Programming
+
+<h2>Tools Used</h2>
+
+- Windows 11
 - PyCharm
-
-<h2>Environments Used</h2>
-
--Windows 11
 
 <h2>Walk-through</h2>
 
